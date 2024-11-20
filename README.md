@@ -1,4 +1,4 @@
 # kidney_disease
 this is my first git repository
 <br>
-Author - Nikitha
+Author - Gorle Nikitha
