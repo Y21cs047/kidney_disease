@@ -1,5 +1,4 @@
 # kidney_disease
-this is my first git repository
 <br>
 Author - Gorle Nikitha<br>
 Prediction is a statement about future events. Chronic Kidney Disease Prediction has become 
